@@ -1,0 +1,45 @@
+# Core Data Processing
+pandas
+numpy
+scipy
+
+# AI Integration  
+anthropic
+
+# API and Data Sources
+requests
+beautifulsoup4
+feedparser
+
+# Statistical Analysis & Machine Learning
+scikit-learn
+statsmodels
+
+# Web Framework (for API endpoints)
+flask
+flask-cors
+gunicorn
+
+# Configuration Management
+python-dotenv
+pydantic
+
+# Date/Time Processing
+python-dateutil
+pytz
+
+# Data Visualization (for reports)
+matplotlib
+seaborn
+plotly
+
+# Supply Chain Specific Libraries
+networkx  # For supply network modeling
+ortools  # For optimization algorithms
+
+# Cloud Integration (optional)
+google-cloud-storage
+google-cloud-bigquery
+
+# Development Tools
+pytest

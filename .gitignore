@@ -1,0 +1,92 @@
+# .gitignore
+# Supply Chain Intelligence Platform
+# Path: .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (keep samples only)
+*.csv
+*.xlsx
+*.json
+!sample_analysis/*.csv
+!sample_analysis/*.json
+addons/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Cache
+.cache/
+*.cache
+
+# API Keys and Secrets
+config/secrets.yaml
+api_keys.txt
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# Cloud deployment
+.gcloudignore
+deployment/secrets/
+
+# Supply Chain specific
+supplier_data/
+historical_analysis/
+optimization_reports/
