@@ -142,11 +142,9 @@ supply-chain-intelligence-platform/
 
 ## Quick Start
 
-### For Business Partnerships
+### Explore the Framework
 
-- Email: [info@shambhavithakur.com](mailto:info@shambhavithakur.com)
-- Portfolio: [projects.shambhavithakur.com](https://projects.shambhavithakur.com)
-- Framework Demo: [View Supply Chain Intelligence Framework](https://projects.shambhavithakur.com/case-studies/supply-chain-intelligence)
+**Comprehensive Framework Details:** [Supply Chain Intelligence Case Study](https://projects.shambhavithakur.com/case-studies/supply-chain-intelligence)
 
 ### For Technical Review
 
@@ -181,7 +179,7 @@ python src/demand_forecasting/main.py
 - **Team Training:** Supply chain team training on AI-powered optimization methods
 - **Ongoing Intelligence:** Monthly supply chain risk assessment and optimization reports
 
-**Contact:** [info@shambhavithakur.com](mailto:info@shambhavithakur.com) | **Portfolio:** [projects.shambhavithakur.com](https://projects.shambhavithakur.com)
+**Contact:** [info@shambhavithakur.com](mailto:info@shambhavithakur.com) | **Framework Details:** [Supply Chain Intelligence Case Study](https://projects.shambhavithakur.com/case-studies/supply-chain-intelligence)
 
 ## Enterprise Framework Features
 
