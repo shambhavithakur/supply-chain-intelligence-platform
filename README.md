@@ -112,10 +112,10 @@ supply-chain-intelligence-platform/
 ### Framework Demonstration (Updated: August 30, 2025)
 
 - **Supplier Risk Assessment:** 85% bankruptcy prediction accuracy
-- **Inventory Optimization:** ₹73 lakh annual holding cost reduction potential
-- **Logistics Efficiency:** 25% transportation cost reduction capability
-- **Disruption Prediction:** ₹25+ crore loss prevention through early warning
-- **Demand Forecasting:** 15% accuracy improvement vs traditional methods
+- **Inventory Optimization:** Systematic stock level management
+- **Logistics Efficiency:** 25% transportation cost reduction
+- **Disruption Prediction:** ₹25+ crore loss prevention across 5 industries
+- **Demand Forecasting:** 15% accuracy improvement
 
 *Analysis generated using production intelligence framework*
 
